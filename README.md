@@ -5,3 +5,4 @@ The main objective of this project is to build a comprehensive Power BI dashboar
 
 ## DataSet Used
 - <a-href="https://github.com/Akshay04612/Data--Analysis-Project/blob/main/Amazon-Sales-Report-40K-Rows.xlsx">DataSet</a>
+-<a-href="Amazon-Sales-Report-40K-Rows.xlsx">DataSet</a>
