@@ -26,4 +26,4 @@ The main objective of this project is to build a comprehensive Power BI dashboar
 4. Dashboard Creation: Used Power BI to design interactive visuals, filters, and KPIs.
 
 ##Dashboard
-- <a href=
+- <a href="https://github.com/Akshay04612/Data--Analysis-Project/blob/main/Amazon%20Dashboard.png">DashBoard</a>
